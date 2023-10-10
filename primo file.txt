@@ -1,2 +1,0 @@
-file di prova per il controllo di versione
-modifica al primo file: aggiungo una riga 
